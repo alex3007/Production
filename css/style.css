@@ -575,8 +575,8 @@ a.accordion-toggle {
 
 /*-- Partners --*/
 #partners {
-    background: linear-gradient(rgba(86, 164, 235, 0.7), rgba(86, 164, 235, 0.2), rgba(86, 164, 235, 0.2), rgba(86, 164, 235, 0.2), rgba(86, 164, 235, 0.7));
-    background-attachment: fixed;
+    /*background: linear-gradient(rgba(86, 164, 235, 0.7), rgba(86, 164, 235, 0.2), rgba(86, 164, 235, 0.2), rgba(86, 164, 235, 0.2), rgba(86, 164, 235, 0.7));
+    background-attachment: fixed;*/
     padding-bottom: 40px;
 
 }
