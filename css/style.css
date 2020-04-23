@@ -242,7 +242,7 @@ a.button-more:hover {
 }
 
 .feature-content{
-    border: 1px solid rgba(255,255,255, 0.6);
+    border: 1px solid rgba(255,255,255, 0.2);
     
 }
 
@@ -285,6 +285,7 @@ a.button-more:hover {
 
 .get-started {
     padding: 40px 10px;
+    border: 1px solid rgba(255,255,255, 0.6);
 }
 
 .get-started h2,
@@ -298,7 +299,7 @@ a.button-more:hover {
     background: linear-gradient(rgba(86, 164, 235, 0.7), rgba(86, 164, 235, 0.2), rgba(86, 164, 235, 0.2), rgba(86, 164, 235, 0.2), rgba(86, 164, 235, 0.7));
     background-attachment: fixed;
     padding-bottom: 10px;
-    border: 1px solid rgba(255,255,255, 0.6);
+    border: 1px solid rgba(255,255,255, 0.2);
 
 }
 
@@ -581,7 +582,7 @@ a.accordion-toggle {
 /*-- Partners --*/
 #partners {
     padding-bottom: 40px;
-    border: 1px solid rgba(255,255,255, 0.6);
+    border: 1px solid rgba(255,255,255, 0.2);
 }
 .partners-logo {
     border-radius: 100px;
