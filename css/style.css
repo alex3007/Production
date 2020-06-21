@@ -805,6 +805,17 @@ ul.social-share li a:hover {
 }
 
 
+@media (max-width: 576px) {
+    
+    #background{
+    background: linear-gradient(rgba(86, 164, 235, 1), rgba(86, 164, 235, 0.8), rgba(86, 164, 235, 1));
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+}
+
+
 @media (max-width: 340px) {
 
     .feature-items-title {
